@@ -3,7 +3,7 @@
 🔗 [Ver Video](https://tu-usuario.github.io/tu-repo/)
 
 <p align="center">
-  <img src="[https://www.canva.com/design/DAGgzJ-5Kpg/wsSV5gH_U3DIwdSf3UUsIQ/edit?utm_content=DAGgzJ-5Kpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGgzJ-5Kpg/ucxak6HFjXNz1RW1ARjCrA/watch?utm_content=DAGgzJ-5Kpg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h02fb8f79f6)" alt="Banner" width="800"/>
+  <img src="https://github.com/KatherineKKC/KatherineKKC/blob/8ccda959a62045f5411b02198987e919b3ed2296/Dise%C3%B1o%20sin%20t%C3%ADtulo.svg"alt="Banner" width="800"/>
 </p>
 
 ## 💻 Sobre mí  
