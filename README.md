@@ -19,7 +19,3 @@
 
 ---
 
-## 🚀 Proyectos Destacados  
-📌 **[Mi Portafolio]** *(en proceso...)* - Repositorio de mis proyectos 📂  
-
----
