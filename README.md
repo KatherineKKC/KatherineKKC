@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Katherine! 👋</h1>
 
-<!--
-**KatherineKKC/KatherineKKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" alt="Banner" width="800"/>
+</p>
 
-Here are some ideas to get you started:
+## 💻 Sobre mí  
+🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (UTAD)**  
+📱 Apasionada por el desarrollo de apps Android con **Kotlin, Room, Retrofit y Firebase**  
+🎨 Me interesa la **Realidad Virtual (VR)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologías y Herramientas  
+- 🔹 **Lenguajes:** Kotlin, Swift, Java, JavaScript  
+- 🔹 **Bases de Datos:** Room, Firebase, DataStore, PaperDB, SharedPreferences  
+- 🔹 **Herramientas:** Android Studio, Git & GitHub, Postman, IntelliJ, Xcode, VirtualBox, PostgreSQL...
+- 🔹 **Otras Tecnologías:** Koin, Retrofit, MVVM, Jetpack Compose, Three.js  
+
+---
+
+## 🚀 Proyectos Destacados  
+📌 **[Mi Portafolio]** *(en proceso...)* - Repositorio de mis proyectos 📂  
+
+---
