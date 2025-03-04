@@ -1,10 +1,7 @@
 <h1 align="center">Hola, soy Katherine! 👋</h1>
-🎥 **Mira mi video VR en GitHub Pages:**  
-🔗 [Ver Video](https://tu-usuario.github.io/tu-repo/)
 
 <p align="center">
   <img src="https://github.com/KatherineKKC/KatherineKKC/blob/8ccda959a62045f5411b02198987e919b3ed2296/Dise%C3%B1o%20sin%20t%C3%ADtulo.svg"alt="Banner" width="800"/>
-</p>
 
 ## 💻 Sobre mí  
 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (UTAD)**  
