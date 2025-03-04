@@ -1,7 +1,9 @@
 <h1 align="center">Hola, soy Katherine! 👋</h1>
+🎥 **Mira mi video VR en GitHub Pages:**  
+🔗 [Ver Video](https://tu-usuario.github.io/tu-repo/)
 
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner" width="800"/>
+  <img src="https://www.canva.com/design/DAGgzJ-5Kpg/wsSV5gH_U3DIwdSf3UUsIQ/edit?utm_content=DAGgzJ-5Kpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" width="800"/>
 </p>
 
 ## 💻 Sobre mí  
